@@ -1,0 +1,130 @@
+
+body {
+   align-items: center;
+   justify-content: center;
+   position: relative;
+}
+
+h1 {
+	font-family: Heyosan Regular;
+	margin: 20px 0px 10px 80px;
+	font-size: 55px;
+	text-align: center;
+	color: #FF4500;
+}
+
+h2 {
+	font-family: Heyosan Regular;
+	font-size: 35px;
+	margin: 20px 0px 10px 80px;
+	text-align: center;
+	color: #FF4500;
+}
+
+
+
+
+#left p {
+	 font-size: 20px;
+	 font-family: arial;
+	 color: #ffffff;
+	 margin:auto;
+	 background-color: #FF4500;
+	 width:548px;
+	 height:25px;
+}
+
+
+#footer {
+	height: 80px;
+	width: 1200px;
+	position: relative;
+	margin: 3px auto;
+	border-radius: 3px;
+	background-color: #58ACFA;
+	text-align: center;
+	color: #000000;
+}
+
+#sobre {
+	border: 1px solid #FF4500;
+	position: relative;
+	float: center;
+	padding: 5px;
+	width: 1190px;
+	margin-left: 70px;
+	text-align: center;
+}
+
+#catalogo {
+	margin: 20px 20px 20px 110px;
+	border: 1px solid #FF4500;
+	border-radius: 3px;
+	padding: 3px;
+	width: 1100px;
+	height: 1100px;
+	text-align: center;
+}
+
+
+#contatos {
+	border: 1px solid #FF4500;
+	position: relative;
+	float: center;
+	padding: 5px;
+	width: 1190px;
+	margin-left: 70px;
+}
+
+.slide{
+	margin: auto;
+    width:1280px;
+    height: 420px;
+	position: absolute;
+}
+#image-slide{
+	margin: auto;
+	overflow: hidden; /*nopostion*/
+	width: 1280px;
+	height: 400px;
+}
+
+#button{
+	margin-left: 1253px;
+	border: none;
+	outline: none;
+	background: #e4d4e1;
+	padding:1px 5px;
+	color: #e98cd8;
+	transition: 0.5s;
+}
+
+#button:hover{
+	border: none;
+	outline: none;
+	background: #e4d4e1;
+	padding:1px 5px;
+	cursor: pointer;
+	color: #ff9cb4;
+	transition: 0.5s;
+}
+
+#buttoff{
+	border: none;
+	outline: none;
+	background: #e4d4e1;
+	padding:1px 5px;
+	color: #e98cd8;
+	transition: 0.6s;
+}
+
+#buttoff:hover{
+	border: none;
+	outline: none;
+	background: #e4d4e1;
+	padding:1px 5px;
+	cursor: pointer;
+	color: #e98cd8;
+	transition: 0.6s;
+}
+
